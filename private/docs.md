@@ -90,6 +90,7 @@ If you want to write your own animation for the image you should add it in you c
 
 ### Changelog
 
+- v0.1.1 Settings extend fix
 - v0.1.0 Init. Standard simple image popup.
 
 Ideas and PRs are welcomed.
