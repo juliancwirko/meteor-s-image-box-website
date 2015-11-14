@@ -90,6 +90,7 @@ If you want to write your own animation for the image you should add it in you c
 
 ### Changelog
 
+- v0.2.0 Better UX with loader and imagesloaded check
 - v0.1.1 Settings extend fix
 - v0.1.0 Init. Standard simple image popup.
 
@@ -111,9 +112,10 @@ $ meteor
 
 ### Check out other tools for Meteor:
 
+* [PostCSS for Meteor](https://atmospherejs.com/juliancwirko/postcss)
 * [Prettify and export your raw git diff output](https://atmospherejs.com/juliancwirko/pretty-diff)
 * [Foundation 5 with Scss for Meteor](https://atmospherejs.com/juliancwirko/zf5)
-* [Stylus, Flexbox grid system](https://atmospherejs.com/juliancwirko/s-grid)
+* [Stylus, Flexbox grid system with optional PostCSS support](https://atmospherejs.com/juliancwirko/s-grid)
 * [Stylus with Jeet, Autoprefixer, Rupture and Nib for Meteor](https://atmospherejs.com/juliancwirko/s-jeet)
 * [Notifications for Meteor](http://s-alert.meteor.com)
 * [Scotty - Meteor boilerplate](https://github.com/juliancwirko/scotty)
@@ -122,7 +124,8 @@ $ meteor
 
 ### Also check out standalone front-end tools:
 
-* [S-Grid (Stylus, Flexbox grid) GruntJS project scaffold](https://github.com/juliancwirko/s-grid-grunt)
+* [sGrid (Stylus, Flexbox grid)](https://stylusgrid.com)
+* [React boilerplate (with sGrid, Webpack)](https://github.com/juliancwirko/react-boilerplate)
 * [Yeoman generator for Zurb Foundation 5](https://github.com/juliancwirko/generator-zf5)
 * [Free, very simple and clean starter theme for your Ghost blog](https://github.com/juliancwirko/abc)
 * [HTML only and GruntJS based project scaffold](https://github.com/juliancwirko/html-project)
