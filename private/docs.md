@@ -112,6 +112,7 @@ $ meteor
 
 ### Check out other tools for Meteor:
 
+* [SimpleChat.Support - Open Source Live Chat App built with Meteor](https://www.simplechat.support)
 * [PostCSS for Meteor](https://atmospherejs.com/juliancwirko/postcss)
 * [Prettify and export your raw git diff output](https://atmospherejs.com/juliancwirko/pretty-diff)
 * [Foundation 5 with Scss for Meteor](https://atmospherejs.com/juliancwirko/zf5)
