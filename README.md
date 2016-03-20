@@ -1,6 +1,6 @@
 ### Homepage for meteor-s-image-box
 
-[http://s-image-box.meteor.com](http://s-image-box.meteor.com)
+[http://s-image-box.meteorapp.com](http://s-image-box.meteorapp.com)
 
 ### MIT License
 
